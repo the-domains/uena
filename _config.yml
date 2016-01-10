@@ -1,0 +1,28 @@
+name: UENA
+favicon: null
+layout_spectrum: 0.21770219248719513
+typography_spectrum: 0.9873614921234548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9157173181883991
+  lightness: 0.052330780075863004
+  saturation: 0.3423205071594566
+  rhythmicContrast: 0.14890300389379263
+purpose: []
